@@ -1,5 +1,5 @@
 body {
-    background: rgb(221, 38, 38);
+    background: rgb(252, 252, 252);
 }
 
 h1 {
@@ -11,5 +11,5 @@ p {
 }
 
 strong {
-    color: blue;
+    color: rgb(119, 119, 197);
 }
