@@ -1,3 +1,7 @@
 header {
        background: #A9F5F2;
 }
+
+nav li {
+       display: inline; 
+}
