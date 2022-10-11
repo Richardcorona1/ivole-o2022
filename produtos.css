@@ -2,3 +2,8 @@ header {
     background: #A9F5F2;
     padding: 20px 0;
 }
+
+.pet {
+    width: 350px;
+    height: 250px;
+}
