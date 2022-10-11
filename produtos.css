@@ -40,6 +40,11 @@ nav a:hover {
     padding: 50px 0;
  }
 
+ .foto-produtos {
+    width: 350px;
+    height: 250px;
+ }
+
  .produtos li {
     display: inline-block;
     text-align: center;
