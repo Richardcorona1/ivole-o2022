@@ -1,5 +1,10 @@
+.logo1 {
+    width: 350px;
+    height: 250px;
+}
+
 header {
-    background: #A9F5F2;
+    background: rgba(155, 155, 155, 0.452);
     padding: 20px 0;
 }
 
@@ -40,11 +45,6 @@ nav a:hover {
     padding: 50px 0;
  }
 
- .foto-produtos {
-    width: 350px;
-    height: 250px;
- }
-
  .produtos li {
     display: inline-block;
     text-align: center;
@@ -75,15 +75,33 @@ nav a:hover {
 
  }
 
-.produtos-descricao {
+ .produto-descriçao {
     font-size: 18px;
 }
 
-footer {
+ .produto-preço {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+ }
+
+ .img {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+ }
+
+ footer {
     text-align: center;
-    background: color #CCCCCC;
-    padding: 40px 0;
+    background: url(fundo.jpg);
+    padding: 10px 0;
+ }
+
+.logo2 {
+    width: 350px;
+    height: 250px;
 }
+
 .copyright {
     color:#FFFFFF;
     font-size: 13px;
