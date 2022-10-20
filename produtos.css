@@ -4,7 +4,7 @@
 }
 
 header {
-    background: rgb(0, 63, 238);
+    background: hwb(189 64% 2%);
     padding: 20px 0;
 }
 
