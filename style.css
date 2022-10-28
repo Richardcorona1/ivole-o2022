@@ -1,5 +1,9 @@
 body {
-    background: rgb(174, 184, 216);
+
+    background: rgb(148, 147, 147);
+
+
+
 }
 
 /*NAVEGAÇÃO ENTRE PAGINAS*/
@@ -47,5 +51,5 @@ p {
 }
 
 strong {
-    color: rgb(119, 119, 197);
+    color: rgb(0, 0, 0);
 }
