@@ -4,7 +4,7 @@
 }
 
 header {
-    background: rgb(0, 0, 0);
+    background: rgb(252, 249, 249);
     padding: 20px 0;
 }
 
@@ -103,7 +103,7 @@ nav a:hover {
 }
 
 .copyright {
-    color:#70378f;
+    color:#2ddd1d;
     font-size: 14px;
     margin: 20px 0 0;
 }
