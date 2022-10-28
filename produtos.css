@@ -28,14 +28,14 @@ nav li {
 
  nav a {
     text-transform: uppercase;
-    color: rgb(229, 110, 67)
+    color: rgb(0, 0, 0)
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;    
  }
 
 nav a:hover {
-    color: rgb(255, 136, 0);
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 
@@ -58,11 +58,11 @@ nav a:hover {
  }
 
  .produtos li:hover {
-    border-color: rgb(255, 136, 0);
+    border-color: rgb(49, 80, 27);
  }
 
 .produtos li:active {
-    border-color: rgb(9, 160, 9);
+    border-color: rgb(229, 110, 67);
 }
 
 .produtos li:hover h2 {
