@@ -28,7 +28,7 @@ nav li {
 
  nav a {
     text-transform: uppercase;
-    color: rgb(0, 0, 0)
+    color: rgb(49, 80, 27)
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;    
@@ -93,7 +93,7 @@ nav a:hover {
 
  footer {
     text-align: center;
-    background: url(fundo.png);
+    background: url(fundo.jpg);
     padding: 10px 0;
  }
 
