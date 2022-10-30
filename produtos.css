@@ -1,109 +1,134 @@
-.logo1 {
-    width: 365px;
-    height: 265px;
+header {
+    -webkit-box-shadow: 2px 2px 34px 3px rgba(185, 35, 231, 0.95); 
+    box-shadow: 2px 2px 34px 3px rgba(190, 9, 214, 0.95);
+    background: #a00fbd;
+    padding: 20px;
+    background: -moz-linear-gradient(topo, #8b07be 0%, #9008a1 50%, #80089e 100%);
+    background: -webkit-linear-gradient(topo, #a00bad 0%, #830088 50%, #640b97 100%);
+    background: linear-gradient(to right, #2f0746 0%, #6a0cc2 50%, #820cb1 100%);
 }
 
-header {
-    background-color: black;
-    padding: 20px 0;
+body {
+    background: #5408b6;
+    background: -moz-linear-gradient(topo, #cc0bdd 0%, #a10dce 50%, #8f0ec2 100%);
+    background: -webkit-linear-gradient(topo, #c210b9 0%, #690d94 50%, #a116bd 100%);
+    background: linear-gradient(to right, #a30ca8 0%, #980ab4 50%, #9f1dd3 100%);
+
 }
+
 
 .caixa {
     position: relative;
-    width: 740px;
+    width: 900px;
     margin: 0 auto;
+    
 }
 
 nav {
     position: absolute;
-    top: 130px;
+    top: 250px;
     right: 0;
-
 }
 
 nav li {
     display: inline;
-    margin: 0 0 0 15px;
+    margin: 0 0 0 20px;
 }
 
- nav a {
+nav a {
     text-transform: uppercase;
-    color: rgb(49, 80, 27)
+    color: rgb(224, 133, 14);
     font-weight: bold;
     font-size: 22px;
-    text-decoration: none;    
- }
-
-nav a:hover {
-    color: rgb(146, 72, 22);
-    text-decoration: underline;
+    text-decoration: none;
 }
 
- .produtos {
-    width: 940px;
-    margin: 0 auto;
-    padding: 50px 0;
- }
+nav a:hover {
 
- .produtos li {
+    color: #e27d0a;
+}
+
+.produtos {
+    width: 1200px;
+    margin: auto;
+    padding: 50px 0;
+}
+
+.produtos li {
     display: inline-block;
     text-align: center;
-    width: 30%;
     vertical-align: top;
-    margin: 0 1.5%;
-    padding: 30px 20px;
+    margin: 0 1.0%;
+    padding: 30px 4px;
     box-sizing: border-box;
-    border: 2px solid rgb(7, 4, 0);
-    border-radius: 10px;
- }
+    border-color: #e68313;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 13px;
+}
 
- .produtos li:hover {
-    border-color: rgb(49, 80, 27);
- }
+.produtos li:hover {
+    border-color: #eb7a11;
 
-.produtos li:active {
-    border-color: rgb(229, 110, 67);
 }
 
 .produtos li:hover h2 {
     font-size: 34px;
 }
 
- .produtos h2 {
+.produtos h2 {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: rgb(233, 125, 23);
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase;
     font-size: 30px;
     font-weight: bold;
-
- }
-
- .produto-descriçao {
-    font-size: 18px;
 }
 
- .produto-preço {
+.produto-descriçao {
+    font-size: 18px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: rgb(231, 143, 10);
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: capitalize
+
+}
+
+.produto-preço {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     font-size: 22px;
     font-weight: bold;
+    margin: 10px 0 0;
     margin-top: 10px;
- }
+    color: rgb(214, 141, 32);
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: capitalize
 
- .img {
-    width: 200px;
-    height: 200px;
-    padding: 20px;
- }
+}
 
- footer {
+footer {
+    -webkit-box-shadow: 2px 2px 34px 3px rgba(211, 148, 12, 0.95); 
+    box-shadow: 2px 2px 34px 3px rgba(219, 135, 9, 0.95);
     text-align: center;
-    background-image: url(../ivoleao2022/fundo.jpg);
-    padding: 10px 0;
- }
-
-.logo2 {
-    width: 350px;
-    height: 250px;
+    padding: 20px;
+    background: -moz-linear-gradient(topo, #9d07e2 0%, #c41dee 50%, #c41fda 100%);
+    background: -webkit-linear-gradient(topo, #b114d8 0%, #890fc2 50%, #57068d 100%);
+    background: linear-gradient(to right, #46098b 0%, #8318ad 50%, #6113aa 100%);
 }
 
 .copyright {
-    color:#258a1c;
-    font-size: 14px;
-    margin: 20px 0 0;
+    color: rgb(231, 161, 68);
+    font-size: 13px;
 }
