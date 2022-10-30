@@ -1,9 +1,8 @@
-body {background-image:url(../ivoleao2022/fundo.jpg) ;
-
-    
-
-
-
+body {
+    background: #530263;
+    background: -moz-linear-gradient(topo, #460385 0%, #1d0088 50%, #4408ce 100%);
+    background: -webkit-linear-gradient(topo, #7906af 0%, #3f0088 50%, #7806ad 100%);
+    background: linear-gradient(to right, #6b0485 0%, #6b05a7 50%, #320746 100%);
 }
 
 /*NAVEGAÇÃO ENTRE PAGINAS*/
@@ -12,7 +11,7 @@ body {background-image:url(../ivoleao2022/fundo.jpg) ;
 }
 
 .caixa {
-    position: relative;
+    position: sticky;
     width: 400px;
     margin: 0 auto;
 }
@@ -24,32 +23,90 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: black;
+    color: rgb(230, 140, 6);
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;    
  }
 
 nav a:hover {
-    color: rgb(255, 136, 0);
+    color: rgb(240, 119, 21);
     text-decoration: underline;
 }
 
 /*HOME*/
 
-.banner {
-    width: 350px;
-    height: 350px;
+.imagembanner23 {
+    -webkit-box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95); 
+    box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95);
+    width: 100%;
+}
+
+.Principal {
+    padding: 30px;
 }
 
 h1 {
-    text-align:center;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    letter-spacing: 3.6px;
+    word-spacing: 0px;
+    color: rgb(219, 132, 2);
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: uppercase
 }
 
-p {
+.Qualidades {
+    padding: 20px;
+    font-size: 20px;
+}
+
+h2 {
     text-align: center;
 }
 
-strong {
-    color: rgb(0, 0, 0);
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
+
+.William {
+    width: 57%;
+    height: 570px;
+    
+}
+
+.bibliotecan {
+    width: 50%;
+    height: 500px;
+}
+
+p {
+    text-align: center;  
+}
+
+strong{
+    color: rgb(221, 95, 11);
+}
+
+footer {
+    
+    text-align: center;
+    padding: 20px;
+    background: -moz-linear-gradient(topo, #480a8f 0%, #8105a0 50%, #a419b1 100%);
+    background: -webkit-linear-gradient(topo, #590461 0%, #680088 50%, #8e06b8 100%);
+    
+}
+
+.copyright {
+    color: rgb(245, 97, 17);
+    font-size: 17px;
+}
+
