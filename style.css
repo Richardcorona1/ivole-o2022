@@ -1,8 +1,8 @@
 body {
     background: #530263;
-    background: -moz-linear-gradient(topo, #000000 0%, #1d0088 50%, #4408ce 100%);
+    background: -moz-linear-gradient(topo, #000000 0%, #03000c 50%, #000000 100%);
     background: -webkit-linear-gradient(topo, #7906af 0%, #3f0088 50%, #7806ad 100%);
-    background: linear-gradient(to right, #6b0485 0%, #6b05a7 50%, #320746 100%);
+    background: linear-gradient(to right, #000000 0%, #000000 50%, #320746 100%);
 }
 
 /*NAVEGAÇÃO ENTRE PAGINAS*/
