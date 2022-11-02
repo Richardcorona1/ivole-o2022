@@ -36,7 +36,7 @@ nav a:hover {
 
 /*HOME*/
 
-.imagembanner23 {
+ {
     -webkit-box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95); 
     box-shadow: 2px 2px 34px 3px rgba(0,0,0,0.95);
     width: 100%;
@@ -77,13 +77,13 @@ ul {
     margin-right: 15%;
 }
 
-.William {
+. {
     width: 57%;
     height: 570px;
     
 }
 
-.bibliotecan {
+ {
     width: 50%;
     height: 500px;
 }
@@ -100,8 +100,8 @@ footer {
     
     text-align: center;
     padding: 20px;
-    background: -moz-linear-gradient(topo, #480a8f 0%, #8105a0 50%, #a419b1 100%);
-    background: -webkit-linear-gradient(topo, #590461 0%, #680088 50%, #8e06b8 100%);
+    background: -moz-linear-gradient(topo, #3c0b74 0%, #620879 50%, #670670 100%);
+    background: -webkit-linear-gradient(topo, #65036e 0%, #5b0c74 50%, #4d0863 100%);
     
 }
 
