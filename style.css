@@ -98,7 +98,7 @@ strong{
 
 footer {
     
-    text-align: center;
+    text-align: center; color: #15d80e;
     padding: 20px;
     background: -moz-linear-gradient(topo, #3c0b74 0%, #620879 50%, #670670 100%);
     background: -webkit-linear-gradient(topo, #65036e 0%, #5b0c74 50%, #4d0863 100%);
