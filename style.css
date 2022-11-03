@@ -1,6 +1,6 @@
 body {
     background: #320141;
-    background: -moz-linear-gradient(topo, #250533 0%, #330c5f 50%, #1e023d 100%);
+    background: -moz-linear-gradient(topo, #ee7716 0%, #330c5f 50%, #1e023d 100%);
     background: -webkit-linear-gradient(topo, #1f023a 0%, hsl(293, 44%, 25%) 50%, #4d0f55 100%);
     background: linear-gradient(to right, #1a0236 0%, #360755 50%, #360e42 100%);
 }
