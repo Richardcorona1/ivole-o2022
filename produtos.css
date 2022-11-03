@@ -3,9 +3,9 @@ header {
     box-shadow: 2px 2px 34px 3px rgba(190, 9, 214, 0.95);
     background: #a00fbd;
     padding: 20px;
-    background: -moz-linear-gradient(topo, #c90fcf 0%, #ae22d8 50%, #9c18cf 100%);
-    background: -webkit-linear-gradient(topo, #a00bad 0%, #c20fc9 50%, #c017a9 100%);
-    background: linear-gradient(to right, #c71ebe 0%, #e21ad1 50%, #c61fcc 100%);
+    background: -moz-linear-gradient(topo, #69296b 0%, #8932a3 50%, #9d50bb 100%);
+    background: -webkit-linear-gradient(topo, #872191 0%, #ae33b3 50%, #8b0c7a 100%);
+    background: linear-gradient(to right, #8f2a8a 0%, #ad10a0 50%, #932797 100%);
 }
 
 body {
@@ -123,9 +123,9 @@ footer {
     box-shadow: 2px 2px 34px 3px rgba(219, 135, 9, 0.95);
     text-align: center;
     padding: 20px;
-    background: -moz-linear-gradient(topo, #9d07e2 0%, #c41dee 50%, #c41fda 100%);
-    background: -webkit-linear-gradient(topo, #b114d8 0%, #890fc2 50%, #57068d 100%);
-    background: linear-gradient(to right, #46098b 0%, #8318ad 50%, #6113aa 100%);
+    background: -moz-linear-gradient(topo, #7310a1 0%, #6d1d81 50%, #7f1e8b 100%);
+    background: -webkit-linear-gradient(topo, #6e1f81 0%, #5e1a7e 50%, #57068d 100%);
+    background: linear-gradient(to right, #46098b 0%, #500b6b 50%, #4b0d85 100%);
 }
 
 .copyright {
