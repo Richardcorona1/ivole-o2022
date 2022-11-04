@@ -1,5 +1,5 @@
 header {
-    -webkit-box-shadow: 2px 2px 34px 3px rgba(147, 54, 170, 0.95); 
+    -webkit-box-shadow: 2px 2px 34px 3px rgba(115, 37, 134, 0.95); 
     box-shadow: 2px 2px 34px 3px rgba(241, 153, 36, 0.95);
     background: #712281;
     padding: 20px;
@@ -113,7 +113,7 @@ nav a:hover {
     color: rgb(214, 141, 32);
     text-decoration: none;
     font-style: normal;
-    font-varian: normal;
+    font-variant: normal;
     text-transform: capitalize
 
 }
