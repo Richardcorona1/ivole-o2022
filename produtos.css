@@ -4,7 +4,7 @@ header {
     background: #712281;
     padding: 20px;
     background: -moz-linear-gradient(topo, #69296b 0%, #8932a3 50%, #9d50bb 100%);
-    background: -webkit-linear-gradient(topo, #872191 0%, #ae33b3 50%, #8b0c7a 100%);
+    background: -webkit-linear-gradient(topo, #872191 0%, #791c7c 50%, #8b0c7a 100%);
     background: linear-gradient(to right, #8f2a8a 0%, #ad10a0 50%, #932797 100%);
 }
 
