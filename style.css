@@ -37,9 +37,9 @@ nav a:hover {
 /*HOME*/
 body {
     background: #320141;
-    background: -moz-linear-gradient(topo, #ee7716 0%, #e98718 50%, #aa1191 100%);
-    background: -webkit-linear-gradient(topo, #720880 0%, hsl(305, 73%, 44%) 50%, #4d0f55 100%);
-    background: linear-gradient(to right, #a30a8f 0%, #8e169e 50%, #b10d80 100%);
+    background: -moz-linear-gradient(topo, #ee7716 0%, #e98718 50%, #661158 100%);
+    background: -webkit-linear-gradient(topo, #6a1675 0%, hsl(305, 90%, 23%) 50%, #4d0f55 100%);
+    background: linear-gradient(to right, #6e0b61 0%, #670574 50%, #722779 100%);
 }
 
 h1 {
