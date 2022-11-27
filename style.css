@@ -31,15 +31,15 @@ nav a {
 }
 
 nav a:hover {
-    color: #000000;
+    color: #2c0a63;
 }
 
 /*HOME*/
 body {
-    background: #320141;
-    background: -moz-linear-gradient(topo, #ee7716 0%, #e98718 50%, #562497 100%);
-    background: -webkit-linear-gradient(topo, #5b0c6e 0%, hsl(283, 72%, 15%) 50%, #2a0d46 100%);
-    background: linear-gradient(to right, #390950 0%, #450d66 50%, #310d53 100%);
+    background: #3c074d;
+    background: -moz-linear-gradient(topo, #ee7716 0%, #e98718 50%, #341161 100%);
+    background: -webkit-linear-gradient(topo, #410b57 0%, hsl(283, 72%, 15%) 50%, #2a0d46 100%);
+    background: linear-gradient(to right, #320547 0%, #450d66 50%, #29044d 100%);
 }
 
 h1 {
