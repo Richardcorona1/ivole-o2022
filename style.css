@@ -48,7 +48,7 @@ h1 {
     font-size: 40px;
     letter-spacing: 3.6px;
     word-spacing: 0px;
-    color: rgb(243, 152, 17);
+    color: rgb(89, 41, 223);
     font-weight: 400;
     text-decoration: none;
     font-style: normal;
@@ -63,7 +63,7 @@ h1 {
 
 p {
     text-align: center;
-    color: orange;
+    color: rgb(121, 53, 209);
 }
 
 
@@ -80,7 +80,7 @@ ul {
 }
 
 strong{
-    color: rgb(221, 95, 11);
+    color: rgb(80, 38, 197);
 }
 
 footer {
@@ -98,7 +98,7 @@ footer {
 }
 
 .copyright {
-    color: rgb(245, 97, 17);
+    color: rgb(132, 51, 185);
     font-size: 17px;
 }
 
